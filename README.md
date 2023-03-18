@@ -1,2 +1,2 @@
-# ParkingLotSprintApp
-This is sample parking lot app in sprint boot with DB JPA persistence
+# ParkingLotSpringApp
+This is sample parking lot app in spring boot with DB JPA persistence
